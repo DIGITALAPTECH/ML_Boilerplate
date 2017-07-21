@@ -1,3 +1,11 @@
 *.pyc
 *__py*
 venv/
+.idea/ML_Boilerplate.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.ip*
+
